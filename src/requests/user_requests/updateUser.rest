@@ -1,0 +1,6 @@
+PUT http://localhost:3000/api/users/Al3x
+Content-Type: application/json
+
+{
+    "username": "alexstdavids@gmail.com"
+}
